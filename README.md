@@ -3,7 +3,7 @@
 
 - 🎓 Univ student
 - 🌱 Learning Data Analizing
-- 🤔 Looking for open source to contribute
+
 
 
  💻PROJECTS💻
