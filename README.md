@@ -5,7 +5,7 @@
 
 <div align=center>
  
-## Introduction
+## Introduction 🎲
 
 안녕하세요 ! 데이터 분석가를 꿈꾸는 이서영입니다.
 
@@ -13,7 +13,7 @@
 
 🌱 Learning Data Analizing
 
-## Used tools & Skill 
+## Used tools & Skills ⚒️
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
