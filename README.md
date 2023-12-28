@@ -8,7 +8,9 @@
 ## Introduction
 
 안녕하세요 ! 데이터 분석가를 꿈꾸는 이서영입니다.
+
 🎓 Univ student
+
 🌱 Learning Data Analizing
 
 ## Used tools & Skill 
