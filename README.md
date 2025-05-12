@@ -10,6 +10,7 @@
 
 | 기간    | 프로젝트                                                  | 소개                             |  바로가기  |
 | ------  | ---------------------------------------------------------- |--------------------------------- | ---------- |
+| 2025.04 | 🏫 Zapier & Langchain 을 이용한 고교학점제 맞춤형 진로 설계 지원 시스템 및 온라인 공동교육과정 과목 필요도 조사 | 팀 프로젝트                    | <a href="https://github.com/1eeseo/A-Study-on-the-Specialized-Career-Design-Support-System-for-High-School-Credit-System-and-Online-Joi">🔗</a>  |   
 | 2024.11 | 🤖 'AI 규제 법안'에 대한 사회 분위기 분석                    | 개인 프로젝트                    | <a href="https://github.com/1eeseo/Social-atmosphere-on-the-AI-Regulation-Bill-">🔗</a>  |   
 | 2024.11 | 🍜 서울 소상공인 폐업률 영향요인 분석                        | 팀 프로젝트                      | <a href="https://github.com/1eeseo/Factors-influencing-the-closing-rate-of-small-business-owners">🔗</a>  |   
 | 2024.11 | 🌳 도시열섬현상 완화를 위한 분석 기반 그린인프라 공간 최적화 | 2024 한국정보기술학회 추계종합학술대회 우수논문상 🏆 |  <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003188112">🔗</a>  |   
